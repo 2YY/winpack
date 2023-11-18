@@ -25,10 +25,19 @@
 					"PackageIdentifier" : "Gyan.FFmpeg"
 				},
 				{
+					"PackageIdentifier" : "Microsoft.Edge"
+				},
+				{
+					"PackageIdentifier" : "Mozilla.Firefox"
+				},
+				{
 					"PackageIdentifier" : "OBSProject.OBSStudio"
 				},
 				{
 					"PackageIdentifier" : "Valve.Steam"
+				},
+				{
+					"PackageIdentifier" : "Google.Chrome"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.PowerToys"
