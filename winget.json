@@ -13,6 +13,9 @@
 					"PackageIdentifier" : "7zip.7zip"
 				},
 				{
+					"PackageIdentifier" : "Discord.Discord"
+				},
+				{
 					"PackageIdentifier" : "ImageLine.FLStudio"
 				},
 				{
