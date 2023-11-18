@@ -4,7 +4,9 @@
 
 ## 使い方
 
-UNDER CONSTRUCTION
+Git Clone して下記コマンドを実行するだけ。
+
+`sh main.ps1`
 
 ## 概要
 
