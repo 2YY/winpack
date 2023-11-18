@@ -9,3 +9,4 @@ UNDER CONSTRUCTION
 ## 概要
 
 - UNDER CONSTRUCTION
+- プライベート用のPCでのみ使うことを想定する。(仕事用のPCに入れたくないものが有っても気にしない)
