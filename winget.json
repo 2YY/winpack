@@ -19,6 +19,9 @@
 					"PackageIdentifier" : "ImageLine.FLStudio"
 				},
 				{
+					"PackageIdentifier" : "Figma.Figma"
+				},
+				{
 					"PackageIdentifier" : "Gyan.FFmpeg"
 				},
 				{
