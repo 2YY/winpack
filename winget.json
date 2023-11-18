@@ -25,6 +25,9 @@
 					"PackageIdentifier" : "Gyan.FFmpeg"
 				},
 				{
+					"PackageIdentifier" : "OBSProject.OBSStudio"
+				},
+				{
 					"PackageIdentifier" : "Microsoft.PowerToys"
 				},
 				{
