@@ -22,6 +22,9 @@
 					"PackageIdentifier" : "Figma.Figma"
 				},
 				{
+					"PackageIdentifier" : "Git.Git"
+				},
+				{
 					"PackageIdentifier" : "Gyan.FFmpeg"
 				},
 				{
