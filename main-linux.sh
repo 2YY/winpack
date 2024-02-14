@@ -43,3 +43,5 @@ set -U fish_user_paths $fish_user_paths $HOME/.cargo/bin
 cargo install lsd
 cargo install ripgrep
 cargo install starship --locked
+
+echo 'starship init fish | source' >> ~/.config/fish/config.fish
