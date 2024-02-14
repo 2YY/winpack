@@ -5,7 +5,7 @@
 ## 使い方
 
 1. このリポジトリの ZIP ファイルをダウンロード
-2. 1. でダウンロードした ZIP ファイルを解凍し、その中に入っている `main.ps1` を実行
+2. ダウンロードした ZIP ファイルを解凍し、その中に入っている `main.ps1` を実行
 3. https://www.nerdfonts.com/font-downloads に Web ブラウザでアクセスし、`JetBrainsMono Nerd Font` をダウンロード・インストール
 
 ## 概要
