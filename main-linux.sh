@@ -4,6 +4,7 @@ cd ~
 sudo -y apt-add-repository ppa:fish-shell/release-3
 sudo apt update
 sudo apt -y install fish
+cp config.fish ~/.config/fish/config.fish
 which fish
 chsh # which fish で表示されたパスを入力して下さい。
 
