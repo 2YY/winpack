@@ -40,6 +40,7 @@ mise use --global node@20
 curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 set -U fish_user_paths $fish_user_paths $HOME/.cargo/bin
 
+cargo install bat --locked
 cargo install lsd
 cargo install ripgrep
 cargo install starship --locked
