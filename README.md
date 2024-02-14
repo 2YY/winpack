@@ -1,12 +1,12 @@
 # winpack
 
-2YYの自宅のWindows PCに環境構築することだけを目的として開発されていますが、お揃いにしたい方は自由に使うことが出来ます。
+2YY の自宅の Windows PC に環境構築することだけを目的として開発されていますが、お揃いにしたい方は自由に使うことが出来ます。
 
 ## 使い方
 
-Git Clone して下記コマンドを実行するだけ。
-
-`main.ps1`
+1. このリポジトリの ZIP ファイルをダウンロード
+2. 1. でダウンロードした ZIP ファイルを解凍し、その中に入っている `main.ps1` を実行
+3. https://www.nerdfonts.com/font-downloads に Web ブラウザでアクセスし、`JetBrainsMono Nerd Font` をダウンロード・インストール
 
 ## 概要
 
