@@ -5,8 +5,10 @@
 ## 使い方
 
 1. このリポジトリの ZIP ファイルをダウンロード
-2. ダウンロードした ZIP ファイルを解凍し、その中に入っている `main.ps1` を実行
-3. https://www.nerdfonts.com/font-downloads に Web ブラウザでアクセスし、`JetBrainsMono Nerd Font` をダウンロード・インストール
+2. ダウンロードした ZIP ファイルを解凍し、その中に入っている `main-windows.ps1` を実行
+3. WSL を起動する `wsl -d Ubuntu-22.04`
+4. ダウンロードした ZIP ファイルに入っている `main-linux.sh` を実行
+5. https://www.nerdfonts.com/font-downloads に Web ブラウザでアクセスし、`JetBrainsMono Nerd Font` をダウンロード・インストール
 
 ## 概要
 
