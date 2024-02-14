@@ -22,9 +22,6 @@
 					"PackageIdentifier" : "Figma.Figma"
 				},
 				{
-					"PackageIdentifier" : "Git.Git"
-				},
-				{
 					"PackageIdentifier" : "Gyan.FFmpeg"
 				},
 				{
@@ -38,9 +35,6 @@
 				},
 				{
 					"PackageIdentifier" : "Valve.Steam"
-				},
-				{
-					"PackageIdentifier" : "Neovim.Neovim"
 				},
 				{
 					"PackageIdentifier" : "Google.Chrome"
