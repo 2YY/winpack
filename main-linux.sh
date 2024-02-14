@@ -44,4 +44,6 @@ cargo install lsd
 cargo install ripgrep
 cargo install starship --locked
 
+# Starship の設定
 echo 'starship init fish | source' >> ~/.config/fish/config.fish
+cp starship.toml ~/.config/starship.toml
