@@ -3,5 +3,3 @@ set fish_greeting
 
 # タブキーで自動補完を採用する。
 bind \t accept-autosuggestion
-
-cd ~
