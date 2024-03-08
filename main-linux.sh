@@ -9,7 +9,7 @@ which fish
 chsh # which fish で表示されたパスを入力して下さい。
 
 # FUSE のインストール
-sudo -y add-apt-repository universe
+sudo add-apt-repository universe
 sudo apt -y install libfuse2
 
 sudo apt-get -y install git
