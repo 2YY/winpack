@@ -3,7 +3,7 @@ cd ~
 # FUSE のインストール
 sudo apt update
 sudo add-apt-repository universe
-sudo apt -y install libfuse2t
+sudo apt -y install libfuse2
 
 sudo apt-get -y install git
 sudo apt-get -y install build-essential
