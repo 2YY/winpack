@@ -6,6 +6,7 @@ sudo apt -y install libfuse2t
 
 sudo apt-get -y install git
 sudo apt-get -y install build-essential
+sudo apt-get -y install cmake
 sudo apt-get -y install libssl-dev
 sudo apt-get -y install mingw-w64
 
