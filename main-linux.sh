@@ -1,8 +1,10 @@
 cd ~
 
+#!/bin/fish
+
 # FUSE のインストール
 sudo add-apt-repository universe
-sudo apt -y install libfuse2
+sudo apt -y install libfuse2t
 
 sudo apt-get -y install git
 sudo apt-get -y install build-essential
