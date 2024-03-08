@@ -38,6 +38,7 @@ curl https://mise.run | sh
 echo '~/.local/bin/mise activate fish | source' >> ~/.config/fish/config.fish
 source ~/.config/fish/config.fish
 mise use --global node@20
+mise use --global python@3
 
 # Rust のインストール
 curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
