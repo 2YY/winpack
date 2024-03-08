@@ -1,7 +1,7 @@
 cd ~
 
 # fish のインストール
-sudo -y apt-add-repository ppa:fish-shell/release-3
+sudo apt-add-repository ppa:fish-shell/release-3
 sudo apt update
 sudo apt -y install fish
 cp config.fish ~/.config/fish/config.fish
