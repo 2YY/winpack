@@ -9,6 +9,7 @@ sudo apt-get -y install build-essential
 sudo apt-get -y install cmake
 sudo apt-get -y install libssl-dev
 sudo apt-get -y install mingw-w64
+sudo apt-get -y install python3-pip
 
 # Lazygit のインストール
 curl -Lo lazygit.tar.gz "https://github.com/jesseduffield/lazygit/releases/latest/download/lazygit_0.40.2_Linux_x86_64.tar.gz"
