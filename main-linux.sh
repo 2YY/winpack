@@ -1,13 +1,5 @@
 cd ~
 
-# fish のインストール
-sudo apt-add-repository ppa:fish-shell/release-3
-sudo apt update
-sudo apt -y install fish
-cp -f config.fish ~/.config/fish/config.fish
-which fish
-chsh # which fish で表示されたパスを入力して下さい。
-
 # FUSE のインストール
 sudo add-apt-repository universe
 sudo apt -y install libfuse2
