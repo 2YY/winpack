@@ -6,9 +6,11 @@
 
 1. このリポジトリの ZIP ファイルをダウンロード
 2. ダウンロードした ZIP ファイルを解凍し、その中に入っている `main-windows.ps1` を実行
-3. WSL を起動する `wsl -d Ubuntu-22.04`
-4. ダウンロードした ZIP ファイルに入っている `main-linux.sh` を実行
-5. https://www.nerdfonts.com/font-downloads に Web ブラウザでアクセスし、`JetBrainsMono Nerd Font` をダウンロード・インストール
+  1. 既にWSLやUbuntuを導入済の場合、このスクリプトを再実行すると壊れる可能性が有るため、その場合はその他の行を手動実行したほうがよさそう。
+4. WSL を起動する `wsl -d Ubuntu-22.04`
+5. `fish main-linux.fish` を実行
+6. https://www.nerdfonts.com/font-downloads に Web ブラウザでアクセスし、`JetBrainsMono Nerd Font` をダウンロード・インストール
+  1. これはWindows側 (WSLの外) で行う
 
 ## 概要
 
