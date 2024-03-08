@@ -1,7 +1,5 @@
 cd ~
 
-#!/bin/fish
-
 # FUSE のインストール
 sudo add-apt-repository universe
 sudo apt -y install libfuse2t
