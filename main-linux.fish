@@ -45,3 +45,7 @@ cargo install starship --locked
 # Starship の設定
 echo 'starship init fish | source' >> ~/.config/fish/config.fish
 cp starship.toml ~/.config/starship.toml
+
+# pip パッケージのインストール
+pip install python-dotenv requests pynvim==0.5.0 prompt-toolkit
+pip install tiktoken
