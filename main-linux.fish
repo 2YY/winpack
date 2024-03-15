@@ -42,6 +42,10 @@ cargo install bat --locked
 cargo install lsd
 cargo install ripgrep
 cargo install starship --locked
+cargo install zoxide --locked
+
+# zoxide の設定
+echo 'zoxide init fish | source' >> ~/.config/fish/config.fish
 
 # Starship の設定
 echo 'starship init fish | source' >> ~/.config/fish/config.fish
